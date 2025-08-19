@@ -20,7 +20,7 @@ The agent can take natural language tasks (like planning a trip or writing a sto
 
 ## 📂 Project Structure
 AgentAI/
-│── AgentAI.ipynb # Example tasks using Agent
-│── .env # Holds your OpenAI API key (not uploaded to GitHub)
-│── requirements.txt # Project dependencies
-│── README.md # Documentation
+│── AgentAI.ipynb # Example tasks using Agent  
+│── .env # Holds your OpenAI API key (not uploaded to GitHub)  
+│── requirements.txt # Project dependencies  
+│── README.md # Documentation  
