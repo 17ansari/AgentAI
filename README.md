@@ -1,9 +1,9 @@
 # AgentAI
-Agentic AI workflow demo using Python, Agno, and OpenAI API. Implements reasoning agents with streaming output.
+Agentic AI workflow using Python, Agno, and OpenAI API. Implements reasoning agents with streaming output.
 
-# 🧠 Agentic AI Demo – Reasoning Agent with OpenAI + Agno
+# 🧠 Agentic AI – Reasoning Agent with OpenAI + Agno
 
-This is a simple **Agentic AI demo project** that uses [Agno](https://pypi.org/project/agno/) + OpenAI API to create a reasoning agent.  
+This is a simple **Agentic AI project** that uses [Agno](https://pypi.org/project/agno/) + OpenAI API to create a reasoning agent.  
 The agent can take natural language tasks (like planning a trip or writing a story) and generate responses with reasoning steps.  
 
 ---
